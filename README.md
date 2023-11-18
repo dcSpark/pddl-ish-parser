@@ -11,9 +11,18 @@ The PDDL-ish Parser is a Rust library designed for parsing a relaxed version of 
 
 ## Installation
 
-Add the following to your `Cargo.toml` file:
+To install the PDDL-ish Parser, you can use `cargo add` command:
 
-WIP
+```bash
+cargo add pddl-ish-parser
+```
+
+Or add the following to your Cargo.toml file:
+```toml
+pddl-ish-parser = "0.0.3"
+```
+
+You may want to check on the latest available version on [crates.io](https://crates.io/crates/pddl-ish-parser).
 
 ## Usage
 
